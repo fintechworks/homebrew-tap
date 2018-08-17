@@ -72,6 +72,9 @@ brew services start postgresql
 psql postgres  # It should show 9.6.8 as the version on the prompt
 ```
 
+## Atención. Luego de esto va a fallar el liquidbase de Kraken
+Esta es una manera de probar pero si hacemos esto va a fallar el liquidbase de Kraken, porque Kraken intenta crear la extension. Se deja para tener el tutorial completo.
+
 After running `psql postgres`, type the following in the prompt to verify your Postgis installation:
 
 ```sh
