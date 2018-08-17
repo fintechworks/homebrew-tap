@@ -1,6 +1,6 @@
 # homebrew-tap
 
-This is Clover Health's Homebrew Tap, which features formulas to help pin
+This is fintech.works's Homebrew Tap, which features formulas to help pin
 Postgres to 9.6 and Postgis to 2.3.
 
 Homebrew will pull in the latest version of formulas when they are upgraded,
