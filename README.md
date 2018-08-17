@@ -29,7 +29,7 @@ brew services stop postgresql
 After this, install Clover's custom brew tap:
 
 ```sh
-brew tap cloverhealth/homebrew-tap
+brew tap fintechworks/homebrew-tap
 ```
 
 Then install the latest version of Postgres and unlink it. This is done first so that
